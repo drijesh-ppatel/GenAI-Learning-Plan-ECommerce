@@ -1,13 +1,13 @@
 
-# 🧠 AI Transformation Learning Plan for eCommerce Developers
+# AI Transformation Learning Plan for eCommerce Developers
 
-## 🧭 Goals
+## Goals
 - Integrate AI into daily development workflows.
 - Utilize AI-enhanced IDEs (PHPStorm + Tabnine).
 - Apply prompt engineering for code generation, debugging, and testing.
 - Identify generative AI use cases across the Software Development Life Cycle (SDLC).
 
-## 🛠️ Tools Covered
+## Tools Covered
 - **IDE**: PHPStorm
 - **AI Plugin**: Tabnine
 - **Prompting**: Prompt Engineering + Frameworks
@@ -15,53 +15,53 @@
 
 ---
 
-## 📅 Week 1: Foundations of AI in Development
+## Phase 1: Foundations of AI in Development
 
-### 🎥 Videos
+### Videos
 - [Introduction to Generative AI](https://www.youtube.com/watch?v=G2fqAlgmoPo)
 - [How to Elevate Software Development with AI-Assisted Coding](https://www.youtube.com/watch?v=S2GqQ4gJAH0)
 
-### 📚 Articles & Docs
+### Articles & Docs
 - [Google Cloud: Introduction to Generative AI](https://cloud.google.com/learn/what-is-generative-ai)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Tabnine Official Documentation](https://www.tabnine.com/docs)
 
-### 🛠️ Exercises
+### Exercises
 - Use ChatGPT or Tabnine to autocomplete a PHP controller.
 - Generate a CRUD operation using prompts in ChatGPT.
 
 ---
 
-## 📅 Week 2: PHPStorm + Tabnine Hands-On
+## Phase 2: PHPStorm + Tabnine Hands-On
 
-### 🎥 Videos
+### Videos
 - [Unleash the AI Power in Your PHPStorm!](https://www.youtube.com/watch?v=NqRo7Px9yV0)
 - [TabNine - Best AI-Powered Developer Tool](https://www.youtube.com/watch?v=lpdzv5hWs0)
 
-### 📚 Docs
+### Docs
 - [JetBrains Guide to PHPStorm Plugins](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-autocomplete)
 - [Tabnine Setup Guide for PHPStorm](https://www.tabnine.com/install/phpstorm)
 
-### 🛠️ Exercises
+### Exercises
 - Set up Tabnine in PHPStorm.
 - Use AI autocomplete to write Laravel route/controller logic.
 - Refactor a legacy function using Tabnine suggestions.
 
 ---
 
-## 📅 Week 3: Prompt Engineering for Developers
+## Phase 3: Prompt Engineering for Developers
 
-### 🎥 Videos
+### Videos
 - [Prompt Engineering Essentials: Getting Better Results from LLMs](https://www.youtube.com/watch?v=LAF-lACf2QY)
 - [Prompting Best Practices: How to Build Your Agents Like a Pro](https://www.youtube.com/watch?v=O8t1G0cPGHQ)
 
-### 📚 Prompt Frameworks & Guides
+### Prompt Frameworks & Guides
 - **RICCE**: Role, Input, Context, Command, Expected Output
 - **COTE**: Context, Objective, Task, Example
 - [Awesome Prompt Engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Prompt Engineering Cheatsheet](https://github.com/steven2358/prompt-engineering)
 
-### 🛠️ Exercises
+### Exercises
 - Design prompts to:
   - Generate boilerplate Laravel code.
   - Write SQL queries.
@@ -71,38 +71,25 @@
 
 ---
 
-## 📅 Week 4: Applying AI to eCommerce Projects
+## Phase 4: Applying AI to eCommerce Projects
 
-### 🎥 Videos
+### Videos
 - [Build a Recommender Using OpenAI](https://www.youtube.com/watch?v=3dUL6pEmWmQ)
 - [Using AI Within eCommerce Search](https://www.youtube.com/watch?v=zAOG-HPSkNU)
 
-### 📚 Articles
+### Articles
 - [AI Use Cases in eCommerce](https://www.shopify.com/enterprise/artificial-intelligence-in-ecommerce)
 - [Use AI to Improve Product Descriptions, Images, and SEO](https://zapier.com/blog/ai-ecommerce-tools/)
 
-### 🛠️ Exercises
+### Exercises
 - Generate product descriptions using prompts.
 - Use AI to write test cases for the shopping cart module.
 - Create an architectural prompt to improve catalog load time.
 
----
-
-## 📁 Learning Hub Folder Structure
-
-```
-📂 AI Transformation
-├── 📁 Week 1 - Foundations
-├── 📁 Week 2 - PHPStorm + Tabnine
-├── 📁 Week 3 - Prompting
-├── 📁 Week 4 - AI in eCommerce
-├── 📁 Cheat Sheets
-└── 📁 Tools & Plugins
-```
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 By completing this plan, developers will be equipped to:
 - Utilize AI tools like Tabnine and ChatGPT to accelerate development.
