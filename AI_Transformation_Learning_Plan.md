@@ -22,9 +22,9 @@
 - [How to Elevate Software Development with AI-Assisted Coding](https://www.youtube.com/watch?v=S2GqQ4gJAH0)
 
 ### Articles & Docs
-- [Google Cloud: Introduction to Generative AI](https://cloud.google.com/learn/what-is-generative-ai)
+- [Google Cloud: Introduction to Generative AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- [Tabnine Official Documentation](https://www.tabnine.com/docs)
+- [Tabnine Official Documentation](https://docs.tabnine.com/main/getting-started/quickstart)
 
 ### Exercises
 - Use ChatGPT or Tabnine to autocomplete a PHP controller.
@@ -59,7 +59,7 @@
 - **RICCE**: Role, Input, Context, Command, Expected Output
 - **COTE**: Context, Objective, Task, Example
 - [Awesome Prompt Engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [Prompt Engineering Cheatsheet](https://github.com/steven2358/prompt-engineering)
+- [Prompt Engineering Cheatsheet](https://github.com/FareedKhan-dev/prompt-engineering-cheatsheet)
 
 ### Exercises
 - Design prompts to:
@@ -78,7 +78,7 @@
 - [Using AI Within eCommerce Search](https://www.youtube.com/watch?v=zAOG-HPSkNU)
 
 ### Articles
-- [AI Use Cases in eCommerce](https://www.shopify.com/enterprise/artificial-intelligence-in-ecommerce)
+- [AI Use Cases in eCommerce](https://www.shopify.com/blog/ai-ecommerce)
 - [Use AI to Improve Product Descriptions, Images, and SEO](https://zapier.com/blog/ai-ecommerce-tools/)
 
 ### Exercises
